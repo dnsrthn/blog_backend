@@ -4,7 +4,7 @@ import { format } from 'date-fns'
 
 export const getPosts = async (req, res) => {
     try{
-        const  {category, course } = req.body
+const { category, course } = req.body || req.query || {};
         let filter = {}
 
         if (category) filter.category = category
@@ -15,13 +15,13 @@ export const getPosts = async (req, res) => {
         .populate({ path: 'comments', select: 'author content date -_id'})
         .sort({date: -1})
 
-    const posts = rawPosts.map(post => {
-        const obj = post.toObject()
+    const posts = rawPosts.map(pos => {
+        const obj = pos.toObject()
         return {
             ...obj,
-            date: format(new Date(post.date), 'dd/MM/yyyy HH:mm'),
+            date: format(new Date(obj.date), 'dd/MM/yyyy HH:mm'),
             comments: (obj.comments || []).map(comment => ({
-                ...comment.toObject(),
+                ...comment,
                 date: format(new Date(comment.date), 'dd/MM/yyyy HH:mm')
             }))
         }

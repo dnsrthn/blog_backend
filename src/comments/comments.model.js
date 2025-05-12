@@ -13,7 +13,7 @@ const commentSchema = new Schema({
         trim: true,
         maxlength: [500, 'Content cannot exceed 500 characters']
     },
-    postId: {
+    date: {
         type: Date,
         default: Date.now
     }
