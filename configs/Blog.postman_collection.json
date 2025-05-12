@@ -1,0 +1,60 @@
+{
+	"info": {
+		"_postman_id": "0e7f55ac-36ae-4b10-b2ef-dff3b967d620",
+		"name": "Blog",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "42720247"
+	},
+	"item": [
+		{
+			"name": "Comments",
+			"item": [
+				{
+					"name": "Add Comment",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"author\": \"B2 Bellingham\",\r\n    \"content\": \"Falta a las malas practicas\"\r\n\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "http://localhost:3000/learningBlog/v1/comments/addComment/68212eae3f3451f3bca19e59"
+					},
+					"response": []
+				},
+				{
+					"name": "New Request",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": "http://localhost:3000/learningBlog/v1/comments/deleteComment/68212f523f3451f3bca19e5e"
+					},
+					"response": []
+				},
+				{
+					"name": "Edit Comment",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"content\": \"Paes taan ranguaras\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "http://localhost:3000/learningBlog/v1/comments/editComment/682131f13f3451f3bca19e68"
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

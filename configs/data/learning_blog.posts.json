@@ -1,0 +1,246 @@
+[{
+  "_id": {
+    "$oid": "68212eae3f3451f3bca19e59"
+  },
+  "title": "Learning Blog",
+  "content": "Blog that allows me to post everything ive done in a year",
+  "course": "Taller",
+  "category": "Infographics",
+  "comments": [
+    {
+      "$oid": "68212f6a3f3451f3bca19e62"
+    },
+    {
+      "$oid": "682131f13f3451f3bca19e68"
+    }
+  ],
+  "date": {
+    "$date": "2025-05-11T23:11:42.498Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68212ed53f3451f3bca19e5b"
+  },
+  "title": "Job Bazaar",
+  "content": "Prsentation for the 3rd bimester proyect",
+  "course": "Taller",
+  "category": "Presentation",
+  "comments": [],
+  "date": {
+    "$date": "2025-05-11T23:12:21.470Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6821344941e82580fc2a677d"
+  },
+  "title": "Almacenadora",
+  "content": "Almacenadora de productos",
+  "course": "Practica Supervisada",
+  "category": "Web Development",
+  "comments": [
+    {
+      "$oid": "682134da41e82580fc2a678a"
+    },
+    {
+      "$oid": "682134eb41e82580fc2a678e"
+    }
+  ],
+  "date": {
+    "$date": "2025-05-11T23:35:38.004Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6821346941e82580fc2a677f"
+  },
+  "title": "Nudge",
+  "content": "LikedIn kinal",
+  "course": "Technology",
+  "category": "Web Development",
+  "comments": [
+    {
+      "$oid": "6821348841e82580fc2a6782"
+    },
+    {
+      "$oid": "6821349641e82580fc2a6786"
+    }
+  ],
+  "date": {
+    "$date": "2025-05-11T23:36:09.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "682135ed41e82580fc2a6791"
+  },
+  "title": "HTML Mastery",
+  "content": "Aprende etiquetas semánticas",
+  "course": "Taller",
+  "category": "Infographics",
+  "comments": [],
+  "date": {
+    "$date": "2025-05-11T23:42:37.162Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "682135fd41e82580fc2a6793"
+  },
+  "title": "IA para principiantes",
+  "content": "Modelos básicos explicados fácil",
+  "course": "Practica Supervisada",
+  "category": "Artificial Intelligence",
+  "comments": [],
+  "date": {
+    "$date": "2025-05-11T23:42:53.406Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6821360741e82580fc2a6795"
+  },
+  "title": "IA para principiantes",
+  "content": "Modelos básicos explicados fácil",
+  "course": "Practica Supervisada",
+  "category": "Artificial Intelligence",
+  "comments": [],
+  "date": {
+    "$date": "2025-05-11T23:43:03.151Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6821361041e82580fc2a6797"
+  },
+  "title": "Presentaciones Impactantes",
+  "content": "Tips para mejorar tus slides",
+  "course": "Taller",
+  "category": "Presentation",
+  "comments": [
+    {
+      "$oid": "6821392b41e82580fc2a67a6"
+    },
+    {
+      "$oid": "6821393641e82580fc2a67aa"
+    }
+  ],
+  "date": {
+    "$date": "2025-05-11T23:43:12.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6821361a41e82580fc2a6799"
+  },
+  "title": "CSS Animations",
+  "content": "Dale vida a tu UI",
+  "course": "Technology",
+  "category": "Web Development",
+  "comments": [
+    {
+      "$oid": "6821394a41e82580fc2a67ae"
+    },
+    {
+      "$oid": "6821395a41e82580fc2a67b2"
+    }
+  ],
+  "date": {
+    "$date": "2025-05-11T23:43:22.211Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6821362641e82580fc2a679b"
+  },
+  "title": "Resumen de la Práctica",
+  "content": "Actividades realizadas en planta",
+  "course": "Practica Supervisada",
+  "category": "Infographics",
+  "comments": [
+    {
+      "$oid": "6821396941e82580fc2a67b6"
+    }
+  ],
+  "date": {
+    "$date": "2025-05-11T23:43:34.045Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6821362d41e82580fc2a679d"
+  },
+  "title": "Pitch Perfect",
+  "content": "Cómo presentar tu idea en 2 mins",
+  "course": "Taller",
+  "category": "Presentation",
+  "comments": [
+    {
+      "$oid": "6821397f41e82580fc2a67ba"
+    }
+  ],
+  "date": {
+    "$date": "2025-05-11T23:43:41.477Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6821363241e82580fc2a679f"
+  },
+  "title": "Node.js Básico",
+  "content": "Entiende el runtime de JavaScript",
+  "course": "Technology",
+  "category": "Web Development",
+  "comments": [
+    {
+      "$oid": "6821398f41e82580fc2a67be"
+    },
+    {
+      "$oid": "6821399841e82580fc2a67c2"
+    }
+  ],
+  "date": {
+    "$date": "2025-05-11T23:43:46.645Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6821363841e82580fc2a67a1"
+  },
+  "title": "IA en el día a día",
+  "content": "Casos reales en Guatemala",
+  "course": "Practica Supervisada",
+  "category": "Artificial Intelligence",
+  "comments": [
+    {
+      "$oid": "682139a741e82580fc2a67c6"
+    },
+    {
+      "$oid": "682139b141e82580fc2a67ca"
+    },
+    {
+      "$oid": "682139b641e82580fc2a67ce"
+    }
+  ],
+  "date": {
+    "$date": "2025-05-11T23:43:52.762Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6821363c41e82580fc2a67a3"
+  },
+  "title": "PowerPoint Pro",
+  "content": "Domina transiciones y diseños",
+  "course": "Taller",
+  "category": "Presentation",
+  "comments": [
+    {
+      "$oid": "682139c741e82580fc2a67d2"
+    }
+  ],
+  "date": {
+    "$date": "2025-05-11T23:43:56.825Z"
+  }
+}]

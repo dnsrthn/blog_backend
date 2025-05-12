@@ -1,0 +1,198 @@
+[{
+  "_id": {
+    "$oid": "68212f6a3f3451f3bca19e62"
+  },
+  "author": "B2 Bellingham",
+  "content": "Falta a las malas practicas",
+  "postId": {
+    "$date": "2025-05-11T23:14:50.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682131f13f3451f3bca19e68"
+  },
+  "author": "Belinda",
+  "content": "Falta a las malas practicas",
+  "postId": {
+    "$date": "2025-05-11T23:25:37.600Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821348841e82580fc2a6782"
+  },
+  "author": "R2d2",
+  "content": "Buen proyecto!",
+  "postId": {
+    "$date": "2025-05-11T23:36:40.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821349641e82580fc2a6786"
+  },
+  "author": "Jaime Muralles",
+  "content": "Mal proyecto!",
+  "postId": {
+    "$date": "2025-05-11T23:36:54.415Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682134da41e82580fc2a678a"
+  },
+  "author": "Jaime Echeverria",
+  "content": "Me gusta!",
+  "postId": {
+    "$date": "2025-05-11T23:38:02.859Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682134eb41e82580fc2a678e"
+  },
+  "author": "Braulio Echeverria",
+  "content": "1 punto porque no puedo poner 0",
+  "postId": {
+    "$date": "2025-05-11T23:38:19.264Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821392b41e82580fc2a67a6"
+  },
+  "author": "Daniel Castillo",
+  "content": "Buen intento, pero puede mejorar.",
+  "postId": {
+    "$date": "2025-05-11T23:56:27.248Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821393641e82580fc2a67aa"
+  },
+  "author": "Lesly Juárez",
+  "content": "No entendí nada pero se ve bonito.",
+  "postId": {
+    "$date": "2025-05-11T23:56:38.221Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821394a41e82580fc2a67ae"
+  },
+  "author": "Kevin Omar",
+  "content": "¿Quién te revisó esto? 😂",
+  "postId": {
+    "$date": "2025-05-11T23:56:58.699Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821395a41e82580fc2a67b2"
+  },
+  "author": "Esteban Reyes",
+  "content": "Mejor borrá eso y empezá de nuevo.",
+  "postId": {
+    "$date": "2025-05-11T23:57:14.199Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821396941e82580fc2a67b6"
+  },
+  "author": "Andrea Martínez",
+  "content": "Intento decente, pero hay errores.",
+  "postId": {
+    "$date": "2025-05-11T23:57:29.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821397f41e82580fc2a67ba"
+  },
+  "author": "Luis Morales",
+  "content": "¡No se entendió nada profe!",
+  "postId": {
+    "$date": "2025-05-11T23:57:51.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821398f41e82580fc2a67be"
+  },
+  "author": "Pamela Díaz",
+  "content": "La intención se aprecia, la ejecución no tanto.",
+  "postId": {
+    "$date": "2025-05-11T23:58:07.113Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821399841e82580fc2a67c2"
+  },
+  "author": "Roberto Sánchez",
+  "content": "Sinceramente, no aporta nada nuevo.",
+  "postId": {
+    "$date": "2025-05-11T23:58:16.014Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682139a741e82580fc2a67c6"
+  },
+  "author": "María López",
+  "content": "¿Y esto es lo que entregaste?",
+  "postId": {
+    "$date": "2025-05-11T23:58:31.752Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682139b141e82580fc2a67ca"
+  },
+  "author": "Diego Palma",
+  "content": "Le falta profundidad al análisis.",
+  "postId": {
+    "$date": "2025-05-11T23:58:41.953Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682139b641e82580fc2a67ce"
+  },
+  "author": "Allison Cruz",
+  "content": "Muy resumido, esperaba más.",
+  "postId": {
+    "$date": "2025-05-11T23:58:46.617Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682139c741e82580fc2a67d2"
+  },
+  "author": "César Méndez",
+  "content": "Esto parece hecho al último minuto.",
+  "postId": {
+    "$date": "2025-05-11T23:59:03.628Z"
+  },
+  "__v": 0
+}]
